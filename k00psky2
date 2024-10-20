@@ -8,7 +8,7 @@ imageSeven = "http://www.roblox.com/asset/?id=17869331640"
 imageEight = "http://www.roblox.com/asset/?id=17869331640"
 Spooky = Instance.new("Sound", game.Workspace)
 Spooky.Name = "Spooky"
-Spooky.SoundId = "rbxassetid://4808613510"
+Spooky.SoundId = "rbxassetid://2167978323"
 Spooky.Volume = 1500
 Spooky.Looped = true
 Spooky:Play()
